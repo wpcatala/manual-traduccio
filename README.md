@@ -15,33 +15,31 @@ Tant el programari del WordPress, com les extensions, temes, patrons i el lloc w
 
 ## Activar notificacions dels revisors
 
-Quan fem traduccions que no segueixen la guia d'estil o contenen errors diversos, els revisors i validades ens ho poden notificar perquè puguem corregir l'error a la traducció i memoritzar-ho per a futures traduccions.
+Quan fem traduccions que no segueixen la guia d'estil o contenen errors diversos, els revisors ens ho poden notificar perquè puguem corregir l'error a la traducció i intentar evitar-lo en futures traduccions.
 
-La manera de rebre aquestes notificacions és accedir a l'URL https://translate.wordpress.org/settings/ i seleccionar la casella "I want to receive notifications of discussions:". Les notificacions ens arribaran al compte de correu del nostre usuari de WordPress.org.
+Per poder rebre aquestes notificacions hem d'accedir a https://translate.wordpress.org/settings/ i seleccionar la casella "I want to receive notifications of discussions". Les notificacions ens arribaran al compte de correu associat al nostre usuari de WordPress.org.
 
 ### Guia d’estil
 
-La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà per a les seves traduccions de programari. Això vol dir que totes les persones que traduïm continguts del WordPress al català ens basem en aquesta guia d'estil perquè les traduccions siguin consistents i coherents, dins del propi WordPress com amb altres traduccions de programari de llengua catalana.
+La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà per a les seves traduccions de programari. Això vol dir que totes les persones que traduïm continguts del WordPress al català ens basem en aquesta guia d'estil perquè les traduccions siguin consistents i coherents, tant dins del mateix WordPress com amb altres traduccions de programari en català.
 
 - [Guia d’estil de Softcatalà](https://www.softcatala.org/guia-estil-de-softcatala/)
 
 ## Recursos de traducció
 
-Quan no estem segurs de quina seria exactament la traducció d'una paraula, podem fer ús de les [memòries de traducció de Softcatalà](https://www.softcatala.org/recursos/memories/). 
+Quan dubtem sobre quina seria exactament la traducció d'una paraula concreta, podem fer ús de les [memòries de traducció de Softcatalà](https://www.softcatala.org/recursos/memories/). 
 
-Aquesta eina ens permet cercar  una paraula i veure quin històric de traduccions té per a diferents projectes de traducció. D'aquesta manera podem veure com altres traductors han traduït aquesta paraula. Aquesta cerca pot ser general o específica per al WordPress.
+Aquesta eina ens permet cercar una paraula i veure quin històric de traduccions té per a diferents projectes de traducció. D'aquesta manera podem veure com altres traductors han traduït aquesta paraula. Aquesta cerca pot ser general, per a tota clase de programari, o específica per al programari del WordPress.
 
 Per exemple, si no estem segurs de quina seria la traducció de "cookies" al català, podem utilitzar aquest cercador per veure com ha estat traduïda en altres projectes de traducció. En aquest cas, la cerca ens mostrarà clarament que en tots els projectes de traducció s'està utilitzant la paraula "galetes" com a traducció de "cookies".
 
 ## Errors freqüents en la traducció
 
-Aquí anirem publicant errors comuns perquè aquells que comencen a traduir pugui fer-ho de manera més eficient, i sense veure com els rebutgen la majoria de les traduccions aportades.
-
-Un dels errors principals en les traduccions del WordPress al català és no seguir la guia d'estil.
+Aquí anirem publicant errors comuns perquè aquells que comencen a traduir pugui fer-ho de manera més eficient, sense veure com s'els rebutgen la majoria de les traduccions aportades.
 
 ### Exemples d'errors freqüents:
 
-Dirigir-se de forma incorrecta a "la màquina". Per dirigir-nos a "l'ordinador" farem ús de l'imperatiu, en lloc de l'indicatiu. Per exemple:
+Dirigir-se de forma incorrecta a "l'ordinador". Per dirigir-nos a "l'ordinador" farem ús de l'imperatiu, en lloc de l'indicatiu. Per exemple:
 
 Cadena a traduir: Send Usage Data
 
@@ -54,4 +52,3 @@ Cadena a traduir: If you are unsure what this does, leave it disabled.
 
 - Incorrecte: Si no estàs segur del que estàs fent, deixa-ho desactivat.
 - Correcte: Si no esteu segur del que esteu fent, deixeu-ho desactivat.
-
