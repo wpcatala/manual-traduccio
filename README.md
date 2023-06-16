@@ -27,11 +27,17 @@ La comunitat catalana del WordPress ha adoptat la guia d'estil de Softcatalà pe
 
 ## Recursos de traducció
 
+### Memòries de traducció de Softcatalà
+
 Quan dubtem sobre quina seria exactament la traducció d'una paraula concreta, podem fer ús de les [memòries de traducció de Softcatalà](https://www.softcatala.org/recursos/memories/). 
 
 Aquesta eina ens permet cercar una paraula i veure quin històric de traduccions té per a diferents projectes de traducció. D'aquesta manera podem veure com altres traductors han traduït aquesta paraula. Aquesta cerca pot ser general, per a tota clase de programari, o específica per al programari del WordPress.
 
 Per exemple, si no estem segurs de quina seria la traducció de "cookies" al català, podem utilitzar aquest cercador per veure com ha estat traduïda en altres projectes de traducció. En aquest cas, la cerca ens mostrarà clarament que en tots els projectes de traducció s'està utilitzant la paraula "galetes" com a traducció de "cookies".
+
+### TERMCAT
+
+En ocasions concrettes les memòries de traducció de Softcatalà poden no oferir-nos informació sobre alguns termes. Si aquest es el cas, podem recorrer al [TERMCAT](https://www.termcat.cat/ca), que es un cercador de terminología.
 
 ## Errors freqüents en la traducció
 
