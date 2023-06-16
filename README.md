@@ -37,7 +37,7 @@ Per exemple, si no estem segurs de quina seria la traducció de "cookies" al cat
 
 ### TERMCAT
 
-En ocasions concrettes les memòries de traducció de Softcatalà poden no oferir-nos informació sobre alguns termes. Si aquest es el cas, podem recorrer al [TERMCAT](https://www.termcat.cat/ca), que es un cercador de terminología.
+A vegades les memòries de traducció de Softcatalà poden no oferir-nos informació sobre alguns termes específics. Si aquest és el cas, podem recórrer al [TERMCAT](https://www.termcat.cat/ca), que és un cercador de terminologia.
 
 ## Errors freqüents en la traducció
 
