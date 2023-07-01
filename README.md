@@ -35,6 +35,14 @@ Aquesta eina ens permet cercar una paraula i veure quin històric de traduccions
 
 Per exemple, si no estem segurs de quina seria la traducció de "cookies" al català, podem utilitzar aquest cercador per veure com ha estat traduïda en altres projectes de traducció. En aquest cas, la cerca ens mostrarà clarament que en tots els projectes de traducció s'està utilitzant la paraula "galetes" com a traducció de "cookies".
 
+### Eina de coherència en les traduccions del WordPress
+
+És una eina similar a les memòries de traducció de Softcatalà, però específic per al projecte del WordPress i que es basa en un històric de cadenes ja validades pels revisors i validadors de la comunitat catalana del WordPress.
+
+En aquesta eina podem fer una cerca d'un terme i podrem veure com ha estat traduït al català en tot el projecte del WordPress o filtrant per projectes específics com ara els temes, les extensions, etc.
+
+Podeu trobar aquesta eina aquí: https://translate.wordpress.org/consistency/
+
 ### TERMCAT
 
 A vegades les memòries de traducció de Softcatalà poden no oferir-nos informació sobre alguns termes específics. Si aquest és el cas, podem recórrer al [TERMCAT](https://www.termcat.cat/ca), que és un cercador de terminologia.
