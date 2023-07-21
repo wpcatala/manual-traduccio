@@ -66,3 +66,7 @@ Cadena a traduir: If you are unsure what this does, leave it disabled.
 
 - Incorrecte: Si no estàs segur del que estàs fent, deixa-ho desactivat.
 - Correcte: Si no esteu segur del que esteu fent, deixeu-ho desactivat.
+
+## Formació per a persones que volen col·laborar a traduir el WordPress al català
+
+Aquells que ho vulguin poden cursar la formació "[Polyglots Contributor Training](https://learn.wordpress.org/course/polyglots-contributor-training/)" (en anglès). Es tracta d'una formació creada per la mateixa comunitat del WordPress per ajudar a entendre com funciona el sistema. És interessant per obtenir una visió general, entendre com funciona el sistema de traducció, quins rols hi ha, perquè és important seguir el glossari i la guia d'estil, etc.
